@@ -9,23 +9,20 @@
 
 ## Nom
 
-Skywalker
+Batumeni
 
 ## Prénom
 
-Luke
+Jose
 
 ## Courte présentation
 
 Bonjour,
 
-Je m'appelle Luke.
-J'aime bien piloter des vaisseaux spatiaux en mode manuel.
-Et je aussi parler aux robots.
-Grand voyageur, j'ai visité plusieurs planètes.
-Malheureusement, mes voyages ne se terminent pas toujours bien.
+Je m'appelle Jose.
+Pratiquant des sports de comabats , passionnés de l'informatique.
 
-Je suis tantôt impulsif, tantôt grognon.
-Et j'ai une famille un peu compliquée.
+J'aime beaucoup le frot-end , le UI/UX designs mais je me mets au defi de perfectionner mon back-end pour devenir fullstack developper.
 
-J'ai hâte d'apprendre à programmer en JavaScript.
+Hate de voir ce que les cours va m'apprendre.
+
